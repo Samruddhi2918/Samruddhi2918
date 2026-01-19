@@ -1,3 +1,5 @@
+<center><img src="banner.gif"/></center>
+
 <h1 align="center">Hi 👋, I'm Samruddhi Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
